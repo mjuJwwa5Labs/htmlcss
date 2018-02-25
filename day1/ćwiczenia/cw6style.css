@@ -1,0 +1,19 @@
+p{
+    width: 100%;
+    background-color: red;
+    color: white;
+}
+
+.container div{
+    width: 50%;
+}
+
+.container>p{
+    background-color:blue;
+    color:yellow;
+}
+
+div.imageContainer{
+/*    width: 50%;*/
+    text-align: center;
+}
